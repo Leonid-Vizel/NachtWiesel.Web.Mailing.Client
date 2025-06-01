@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NachtWiesel.Web.Mailing.Client", "NachtWiesel.Web.Mailing.Client\NachtWiesel.Web.Mailing.Client.csproj", "{92CCBE4D-24D3-44A3-9380-141B08A3BF54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CCBE4D-24D3-44A3-9380-141B08A3BF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CCBE4D-24D3-44A3-9380-141B08A3BF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CCBE4D-24D3-44A3-9380-141B08A3BF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CCBE4D-24D3-44A3-9380-141B08A3BF54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71A179B-A4A4-48F9-82FB-E62F46ADAAFA}
+	EndGlobalSection
+EndGlobal
