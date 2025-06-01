@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.Extensions.Logging;
+using NachtWiesel.Web.Mailing.Client.Models;
 using System.Net.Http.Headers;
 using System.Text.Json;
 
-namespace NachtWiesel.Web.Mailing.Client;
+namespace NachtWiesel.Web.Mailing.Client.Services;
 
 public interface IMailerCommunicatorService
 {

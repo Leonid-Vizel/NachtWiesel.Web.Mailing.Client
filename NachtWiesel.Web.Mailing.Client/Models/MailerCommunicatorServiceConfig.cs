@@ -1,4 +1,4 @@
-﻿namespace NachtWiesel.Web.Mailing.Client;
+﻿namespace NachtWiesel.Web.Mailing.Client.Models;
 
 public sealed class MailerCommunicatorServiceConfig
 {
